@@ -1,0 +1,14 @@
+{
+  "name": "McDonnell Douglas MD-11",
+  "description": "Wide-body trijet airliner",
+  "category": "Aircraft",
+  "weight": 185000,
+  "engine": {
+    "count": 3,
+    "thrust": 270000
+  },
+  "mesh": {
+    "file": "model.glb",
+    "scale": 1.0
+  }
+}
